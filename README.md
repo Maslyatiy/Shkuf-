@@ -1,16 +1,4 @@
-# gayskiproga
+Closet flutter dart. 
+![photo_5354884015867418699_w](https://github.com/Maslyatiy/Shkuf-/assets/73582371/9b4fed00-1eec-44c8-9675-e5489d80f568)
 
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+![photo_5354884015867418701_y](https://github.com/Maslyatiy/Shkuf-/assets/73582371/88a32d60-e5dc-4e3a-8bd0-8739d2580063)
